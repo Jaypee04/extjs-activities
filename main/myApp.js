@@ -16,7 +16,7 @@ Ext.Loader.setConfig({ disableCaching:false });
 			id: 'viewport',
 		    layout: {
 				type: 'vbox',
-				align: 'center',
+				align: 'right',
 				pack: 'center'
 		    },
 			
